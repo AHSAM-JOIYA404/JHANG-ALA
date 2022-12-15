@@ -132,7 +132,7 @@ def main_apv():
  
     imt="110Y=="
  
-    ak="Rdx_100RS"
+    ak="AUH_100RS"
  
     os.system('clear')
  
@@ -196,7 +196,7 @@ def main_apv():
         print(logo)
  
         print ("         ༄MR AUH•───────────────────────────────────────•༄BRAND")
-        print ("             \033[1;94mGIVE ME 100RS FOR APROVAL Rdx")     
+        print ("             \033[1;94mGIVE ME 100RS FOR APROVAL AUH")     
            
         print ("             \033[1;32mYOUR KEY : "+ak+key1)     
         print ("             Key And Sent Me WP Approvel Your Key ")
